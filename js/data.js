@@ -156,8 +156,8 @@ const ROOMS = {};
       { id: 'dan', x: 13, y: 8, facing: 'down', dialogue: 'dan_courtyard' },
     ],
     warps: [
-      { x: 9, y: 3, toRoom: 'hallway', toX: 9, toY: 12, toFacing: 'up' },
-      { x: 10, y: 3, toRoom: 'hallway', toX: 10, toY: 12, toFacing: 'up' },
+      { x: 9, y: 3, toRoom: 'hallway', toX: 9, toY: 11, toFacing: 'up' },
+      { x: 10, y: 3, toRoom: 'hallway', toX: 10, toY: 11, toFacing: 'up' },
     ],
     encounters: [],
     signs: [],
